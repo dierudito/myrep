@@ -1,0 +1,6 @@
+@moreno.myrep.api_HostAddress = http://localhost:5295
+
+GET {{moreno.myrep.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

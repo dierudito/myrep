@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eXlc9t97gLb2fWyueLWeeZqkGMnOcvMU+qVPNVjG+9ZIcPvx7ouScx8h19imKibIEAKEc6tqgwvw5b9BQJcznA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dieru\\source\\repos\\myrep\\src\\moreno.myrep.domain\\moreno.myrep.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dieru\\.nuget\\packages\\domainvalidationasync\\1.0.1\\domainvalidationasync.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
